@@ -4,22 +4,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MYBC</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-07-05T22:37:38&#43;08:00</updated>
-    <id>https://Hyde1989.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://Hyde1989.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://Hyde1989.github.io/atom.xml" />
+    <updated>2021-07-06T10:10:17&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
     <author>
             <name>MYBC</name>
-            <uri>https://Hyde1989.github.io/</uri>
+            <uri>https://example.com/</uri>
             
                 <email>mybc1989@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
         <entry>
+            <title type="text">2021.7.6 TODO LIST AND REANALYZE</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/2021.7.6-todo-list-and-reanalyze/" />
+            <id>https://example.com/posts/2021.7.6-todo-list-and-reanalyze/</id>
+            <updated>2021-07-06T10:08:20&#43;08:00</updated>
+            <published>2021-07-06T10:02:43&#43;08:00</published>
+            <author>
+                    <name>MYBC</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mybc1989@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021.7.6 TODO LIST AND REANALYZE 推迟满足，忠于事实，承担责任，保持平衡 TODO LIST 完成模电第一二章的复习及课后练习……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;202176-todo-list-and-reanalyze&#34;&gt;2021.7.6 TODO LIST AND REANALYZE&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;推迟满足，忠于事实，承担责任，保持平衡&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;TODO LIST&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;完成模电第一二章的复习及课后练习&lt;/li&gt;
+&lt;li&gt;将武忠祥的高数看至Ep.13&lt;/li&gt;
+&lt;li&gt;完成一篇考研阅读并看完唐迟的解析&lt;/li&gt;
+&lt;li&gt;复习之前做过的考研阅读技巧和记录下来的单词&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/posts/" term="posts\" label="posts\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">当我们写博客时我们在想些什么</title>
-            <link rel="alternate" type="text/html" href="https://Hyde1989.github.io/posts/%E5%BD%93%E6%88%91%E4%BB%AC%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6%E6%88%91%E4%BB%AC%E5%9C%A8%E6%83%B3%E4%BA%9B%E4%BB%80%E4%B9%88/" />
-            <id>https://Hyde1989.github.io/posts/%E5%BD%93%E6%88%91%E4%BB%AC%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6%E6%88%91%E4%BB%AC%E5%9C%A8%E6%83%B3%E4%BA%9B%E4%BB%80%E4%B9%88/</id>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E5%BD%93%E6%88%91%E4%BB%AC%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6%E6%88%91%E4%BB%AC%E5%9C%A8%E6%83%B3%E4%BA%9B%E4%BB%80%E4%B9%88/" />
+            <id>https://example.com/posts/%E5%BD%93%E6%88%91%E4%BB%AC%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6%E6%88%91%E4%BB%AC%E5%9C%A8%E6%83%B3%E4%BA%9B%E4%BB%80%E4%B9%88/</id>
             <updated>2021-07-05T22:37:27&#43;08:00</updated>
             <published>2021-07-05T21:37:39&#43;08:00</published>
             <author>
@@ -41,7 +91,7 @@
                     
                     
                         
-                            <category scheme="https://Hyde1989.github.io/posts/" term="posts\" label="posts\" />
+                            <category scheme="https://example.com/posts/" term="posts\" label="posts\" />
                         
                     
                 
