@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MYBC</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-07-12T11:13:45&#43;08:00</updated>
+    <updated>2021-07-13T07:29:45&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,59 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+        <entry>
+            <title type="text">2021.7.13 TODO LIST AND REANALYSIS</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/2021.7.13-todo-list-and-reanalysis/" />
+            <id>https://example.com/posts/2021.7.13-todo-list-and-reanalysis/</id>
+            <updated>2021-07-13T07:29:31&#43;08:00</updated>
+            <published>2021-07-13T07:25:29&#43;08:00</published>
+            <author>
+                    <name>MYBC</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mybc1989@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">2021.7.13 TODO LIST AND REANALYSIS 耐心和坚持总能奇迹般地，消灭困难，扫除障碍 TODO LIST 完成两篇英语阅读 数学视频看完……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;2021713-todo-list-and-reanalysis&#34;&gt;2021.7.13 TODO LIST AND REANALYSIS&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;耐心和坚持总能奇迹般地，消灭困难，扫除障碍&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;todo-list&#34;&gt;TODO LIST&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;完成两篇英语阅读&lt;/li&gt;
+&lt;li&gt;数学视频看完第三章&lt;/li&gt;
+&lt;li&gt;模电完成第三章作业&lt;/li&gt;
+&lt;li&gt;看完一个腿姐视频&lt;/li&gt;
+&lt;li&gt;看一个唐静老师翻译视频&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;REANALYSIS&lt;/p&gt;
+&lt;p&gt;.........等待晚间更新&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/posts/" term="posts\" label="posts\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">2021.7.12-2021.7.18 STUDY PLAN</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/2021.7.12-2021.7.18-weekly-study-plan/" />
