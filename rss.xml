@@ -23,13 +23,13 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 19 Jul 2021 01:12:41 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 01:57:37 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
-                <title>七日餐饮记录</title>
+                <title>近日餐饮记录</title>
                 <link>https://example.com/posts/%E4%B8%83%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</link>
                 <guid isPermaLink="true">https://example.com/posts/%E4%B8%83%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</guid>
                 <pubDate>Mon, 19 Jul 2021 00:57:15 &#43;0800</pubDate>
@@ -38,12 +38,20 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;h1 id=&#34;七日餐饮记录其实不止七天&#34;&gt;七日餐饮记录（其实不止七天）&lt;/h1&gt;
+                    <description>&lt;h1 id=&#34;近日餐饮记录&#34;&gt;近日餐饮记录&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;无人问津的日子，正是登峰造极的好时机&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2021.7.15  开始做饭的第一天，给自己腌制了椒盐鸡胸肉，切了一些苦瓜和冬瓜拿来清炒。做的很简单，但是自己吃得很开心。&lt;/p&gt;
-&lt;p&gt;![](/static/meal/2021.7.15 dinner.jpg)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/meal/2021.7.15dinner.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2021.7.16 中午开始做饭的第二天，给自己做了照烧鸡胸肉，照烧巴沙鱼排因为懒得洗锅所以用锅里剩下的照烧汁做了照烧冬瓜，感觉味道重了点但还是很好吃。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/meal/2021.7.16lunch.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;晚上 用剩下的巴沙鱼加上黑胡椒和盐拿去香煎，因为怕蛋白质不够，又打了一个鸡蛋感觉还是非常好吃！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/meal/2021.7.16dinner.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2021.7.17  中午 偷懒不想做饭 点了塔斯丁的汉堡外卖，我觉得塔斯丁的汉堡绝对是同价位无敌的存在，特别是它的汉堡皮部分！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/meal/2021.7.17lunch.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2021.7.18  晚上，鉴于牛肉实在太硬我将牛肉放进高压锅 压了三十分钟（感觉还不够，如果想要咬起来感觉容易，估计得压上50分钟才可以），最后成果是 炖牛肉加麻婆豆腐加糙米饭。味道还可以！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://example.com/meal/2021.7.18dinner.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
                 
                 
