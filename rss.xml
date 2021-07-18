@@ -23,15 +23,56 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 19 Jul 2021 01:57:37 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 02:12:30 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
+                <title>未来博客的更新计划</title>
+                <link>https://example.com/posts/%E6%9C%AA%E6%9D%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E6%9C%AA%E6%9D%A5%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%9B%B4%E6%96%B0%E8%AE%A1%E5%88%92/</guid>
+                <pubDate>Mon, 19 Jul 2021 02:00:06 &#43;0800</pubDate>
+                
+                    <author>mybc1989@gmail.com (MYBC)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;blockquote&gt;
+&lt;p&gt;咬定青山不放松&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​		观察自己最近的学习生活，处在一个震荡上升的状态，开始慢慢明白自己每天需要做多少工作量，以及自己的极限在哪里。所以打算后面博客应该会在每周四和每周一进行一次博客更新，做一个近期总结。&lt;/p&gt;
+&lt;p&gt;​		之所以是周四和周一，是因为打算把每周七天变成一个三天和一个四天，其中每天周一和周四拿出小半天来休息并撰写博客。其中博客的内容大概会是，三日计划和四日计划的执行完成程度，以及生活中遇到的一些趣事吧。就酱，加油啊！&lt;/p&gt;
+</description>
+                
+                
+                
+                    
+                    
+                    
+                        
+                        
+                        
+                            
+                                <category domain="https://example.com/posts/">posts\</category>
+                            
+                        
+                    
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
                 <title>近日餐饮记录</title>
-                <link>https://example.com/posts/%E4%B8%83%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</link>
-                <guid isPermaLink="true">https://example.com/posts/%E4%B8%83%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</guid>
+                <link>https://example.com/posts/%E8%BF%91%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E8%BF%91%E6%97%A5%E9%A4%90%E9%A5%AE%E8%AE%B0%E5%BD%95/</guid>
                 <pubDate>Mon, 19 Jul 2021 00:57:15 &#43;0800</pubDate>
                 
                     <author>mybc1989@gmail.com (MYBC)</author>
