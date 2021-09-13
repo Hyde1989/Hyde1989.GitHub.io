@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MYBC</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2021-09-14T00:10:47&#43;08:00</updated>
+    <updated>2021-09-14T00:24:27&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -16,6 +16,73 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+        <entry>
+            <title type="text">21.9.13任务计划及完成情况</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/21.9.13%E4%BB%BB%E5%8A%A1%E8%AE%A1%E5%88%92%E5%8F%8A%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5/" />
+            <id>https://example.com/posts/21.9.13%E4%BB%BB%E5%8A%A1%E8%AE%A1%E5%88%92%E5%8F%8A%E5%AE%8C%E6%88%90%E6%83%85%E5%86%B5/</id>
+            <updated>2021-09-14T00:09:16&#43;08:00</updated>
+            <published>2021-09-13T13:44:44&#43;08:00</published>
+            <author>
+                    <name>MYBC</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>mybc1989@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">英语： 在墨墨背单词APP上完成50个单词的定量 完成 背黄皮书附送的“词汇背诵宝典”3页……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;英语&#34;&gt;英语：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;在墨墨背单词APP上完成50个单词的定量                                                                完成&lt;/li&gt;
+&lt;li&gt;背黄皮书附送的“词汇背诵宝典”3页的定量                                                                完成&lt;/li&gt;
+&lt;li&gt;完成英语阅读三篇，并完成段意，文章类型，长难句和生词短语的总结                  题目做完，但总结未完成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;数学&#34;&gt;数学&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;完成定积分的应用及其之前部分的习题书写                                                             未完成&lt;/li&gt;
+&lt;li&gt;复习第一章的数列极限                                                                                             未完成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;专业课&#34;&gt;专业课&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;清华王红两节课 P24 P25 P26                                                                                  完成&lt;/li&gt;
+&lt;li&gt;完成第五章的作业                                                                                                     完成了一半&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;政治&#34;&gt;政治&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;腿姐强化课45min                                                                                                      未完成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;反思&#34;&gt;反思&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;应重新思考木桶效应，后面考虑选择性精读一些阅读，太过简单的考研英语二阅读就不进行精读了&lt;/li&gt;
+&lt;li&gt;目前英语的作文和阅读还要有翻译都还没有开始学习，后续英语的重点应该放到这上面。&lt;/li&gt;
+&lt;li&gt;数学完成情况不佳的原因是没有放在早上开始，导致越来越迟。&lt;/li&gt;
+&lt;li&gt;专业课完成尚可，但是还没有总结第五章的内容，因此明天需要对第五章进行总结&lt;/li&gt;
+&lt;li&gt;腿姐强化课将会熬夜看&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                        
+                            <category scheme="https://example.com/posts/" term="posts\" label="posts\" />
+                        
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">我们缺乏对父母生活的实践，反之亦然</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/%E6%88%91%E4%BB%AC%E7%BC%BA%E4%B9%8F%E5%AF%B9%E7%88%B6%E6%AF%8D%E7%94%9F%E6%B4%BB%E7%9A%84%E5%AE%9E%E8%B7%B5%E5%8F%8D%E4%B9%8B%E4%BA%A6%E7%84%B6/" />
